@@ -1,0 +1,15 @@
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\bin\Debug\net6.0\Integration.Engine.Source.deps.json
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\bin\Debug\net6.0\Integration.Engine.Source.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\bin\Debug\net6.0\ref\Integration.Engine.Source.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\bin\Debug\net6.0\Integration.Engine.Source.pdb
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\bin\Debug\net6.0\Integration.Engine.Message.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\bin\Debug\net6.0\Integration.Engine.Message.pdb
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.csproj.CopyComplete
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\ref\Integration.Engine.Source.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Source\obj\Debug\net6.0\Integration.Engine.Source.pdb

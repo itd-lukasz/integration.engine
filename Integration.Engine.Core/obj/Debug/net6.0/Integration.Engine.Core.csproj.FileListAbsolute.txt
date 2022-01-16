@@ -1,0 +1,17 @@
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\Integration.Engine.Core.deps.json
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\Integration.Engine.Core.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\ref\Integration.Engine.Core.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\Integration.Engine.Core.pdb
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.csproj.AssemblyReference.cache
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.AssemblyInfoInputs.cache
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.AssemblyInfo.cs
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.csproj.CoreCompileInputs.cache
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\ref\Integration.Engine.Core.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.pdb
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\Integration.Engine.Process.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\Integration.Engine.Step.dll
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\Integration.Engine.Process.pdb
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\bin\Debug\net6.0\Integration.Engine.Step.pdb
+C:\Users\lukas\source\repos\Integration Engine\Integration.Engine.Core\obj\Debug\net6.0\Integration.Engine.Core.csproj.CopyComplete

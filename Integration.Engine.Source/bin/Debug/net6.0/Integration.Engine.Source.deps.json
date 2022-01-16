@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Integration.Engine.Source/1.0.0": {
+        "dependencies": {
+          "Integration.Engine.Message": "1.0.0"
+        },
+        "runtime": {
+          "Integration.Engine.Source.dll": {}
+        }
+      },
+      "Integration.Engine.Message/1.0.0": {
+        "runtime": {
+          "Integration.Engine.Message.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integration.Engine.Source/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Integration.Engine.Message/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
